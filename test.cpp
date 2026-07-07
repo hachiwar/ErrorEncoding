@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // 中文测试：文件打开失败
-    cout << "中文测试：文件打开失败" << endl;
+    // 涓鏂囨祴璇曪細鏂囦欢鎵撳紑澶辫触
+    cout << "涓鏂囨祴璇曪細鏂囦欢鎵撳紑澶辫触" << endl;
     return 0;
 }
